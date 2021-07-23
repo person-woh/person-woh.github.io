@@ -3,7 +3,7 @@ title: Privacy Policy
 layout: page
 ---
 
-##### Privacy Policy
+<h3 class="text-center mb-4 mt-3">Privacy Policy</h3>
 
 Your privacy is important to us. It is WoH Gaming's policy to respect your privacy and comply with any applicable law and regulation regarding any personal information we may collect about you, including across our website, https://woh.games, and other sites we own and operate.
 

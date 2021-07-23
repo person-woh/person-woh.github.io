@@ -3,7 +3,8 @@ title: Terms of Service
 layout: page
 ---
 
-##### Welcome to WoH Gaming
+<h3 class="text-center mb-4 mt-3">Welcome to WoH Gaming</h3>
+
 These terms of service outline the rules and regulations for the use of WoH Gaming's Website.
 
 By accessing this website we assume you accept these terms of service in full. Do not continue to use WoH Gaming's website if you do not accept all of the terms of service stated on this page.
