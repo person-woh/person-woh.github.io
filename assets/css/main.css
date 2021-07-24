@@ -11,3 +11,9 @@ a {
 .nav-item {
   font-weight: bold;
 }
+
+.home {
+  background-image: url(/assets/images/bg-wide.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}

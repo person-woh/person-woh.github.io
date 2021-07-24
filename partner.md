@@ -4,9 +4,16 @@ title: Partner
 permalink: /partner
 ---
 
-<div class="p-3 pb-md-4 mx-auto text-center">
-  <h2 class="display-6 mt-3">Partnerships at WoH</h2>
-  <p class="fs-5 text-muted">Partners share in and grow the assets of the guild.</p>
+<div class="p-2 mx-auto">
+  <div class="row ">
+    <div class="col-4 text-center">
+      <img src="/assets/images/partner.png" class="img-fluid" alt="logo">
+    </div>
+    <div class="col text-start">
+      <h2 class="display-6 mt-5">Partnerships at WoH</h2>
+      <p class="fs-5 text-muted">Partners share in and grow the assets of the guild.</p>
+    </div>
+  </div>
 </div>
 
 ##### Scholarships
@@ -24,5 +31,47 @@ permalink: /partner
 
 ##### Join
 2. When joining, please append " \| WoH" to your name. 길드에 가입하면 이름 혹은 닉네임 뒤에 " \| WoH"로 길드의 일원임을 표기한다.
+
+<div class="row row-cols-1 row-cols-md-3 mb-3 text-center">
+  <div class="col">
+    <div class="card mb-4 rounded-3 shadow-sm">
+      <div class="card-body">
+        <h4 class="my-0 fw-normal mb-3">Scholarships</h4>
+        <ul class="list-unstyled mb-4">
+          <li>get an axie team</li>
+          <li>earn <a href="https://www.coingecko.com/en/coins/smooth-love-potion/">$SLP</a></li>
+          <li>join a community</li>
+          <li>explore Axie Infinity</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card mb-4 rounded-3 shadow-sm">
+      <div class="card-body">
+        <h4 class="my-0 fw-normal mb-3">Invest</h4>
+        <ul class="list-unstyled mb-4">
+          <li>join a community</li>
+          <li>learn together</li>
+          <li>play together</li>
+          <li>grow together</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="col">
+    <div class="card mb-4 rounded-3 shadow-sm">
+      <div class="card-body">
+        <h4 class="my-0 fw-normal mb-3">Join</h4>
+        <ul class="list-unstyled mb-4">
+          <li>invest together</li>
+          <li>join a community</li>
+          <li>lead the community</li>
+          <li>grow the community</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
 
 [Apply](https://forms.gle/CiUCizC18CxZ3iN99) to be a partner. 파트너로 지원하고 싶으면 [여기에](https://forms.gle/CiUCizC18CxZ3iN99) 지원해주세요.

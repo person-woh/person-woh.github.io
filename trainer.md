@@ -4,9 +4,16 @@ title: Trainer
 permalink: /trainer
 ---
 
-<div class="p-3 pb-md-4 mx-auto text-center">
-  <h2 class="display-6 mt-3">Become an axie trainer at WoH</h2>
-  <p class="fs-5 text-muted">Partners share in and grow the assets of the guild.</p>
+<div class="p-2 mx-auto">
+  <div class="row ">
+    <div class="col-4 text-center">
+      <img src="/assets/images/scholar.png" class="img-fluid" alt="logo">
+    </div>
+    <div class="col text-start">
+      <h2 class="display-6 mt-5">Axie Trainer at WoH</h2>
+      <p class="fs-5 text-muted">Learn, play, grow, build. Together.</p>
+    </div>
+  </div>
 </div>
 
 ##### Community
@@ -16,6 +23,7 @@ permalink: /trainer
 
 
 ##### Grow
+
 
 ##### Scholarships
 1. Manage scholars as a guild member but investment and revenues are calculated on an individual basis.

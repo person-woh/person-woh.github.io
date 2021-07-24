@@ -4,9 +4,16 @@ title: Scholar
 permalink: /scholar
 ---
 
-<div class="p-3 pb-md-4 mx-auto text-center">
-  <h2 class="display-6 mt-3">Scholarships at WoH</h2>
-  <p class="fs-5 text-muted">Join the community. Earn <a href="https://www.coingecko.com/en/coins/smooth-love-potion/">$SLP</a>.</p>
+<div class="p-2 mx-auto">
+  <div class="row ">
+    <div class="col-4 text-center">
+      <img src="/assets/images/scholar.png" class="img-fluid" alt="logo">
+    </div>
+    <div class="col text-start">
+      <h2 class="display-6 mt-5">Scholarships at WoH</h2>
+      <p class="fs-5 text-muted">Join the community. Earn <a href="https://www.coingecko.com/en/coins/smooth-love-potion/">$SLP</a>.</p>
+    </div>
+  </div>
 </div>
 
 1. Benefits you will receive 제공되는 것

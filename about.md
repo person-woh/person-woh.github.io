@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-##### What is WoH Gaming?
+<h2 class="display-6 mb-4 mt-3">What is WoH Gaming?</h2>
 
 WoH stands for Whales of Heaven.
 
